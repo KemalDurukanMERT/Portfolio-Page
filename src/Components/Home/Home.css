@@ -1,0 +1,45 @@
+.main-container{
+    min-width: 100%;
+    min-height: 100vh;
+    border: 3px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 3px solid green;
+    min-width: 90%;
+    min-height: 90%;
+    max-height:100%;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+    border: 3px solid yellow;
+    margin: 1rem;
+}
+
+.right{
+    border: 3px solid yellow;
+    max-width: 40%;
+    margin: 1rem;
+}
+
+.img{
+    border:2px solid blue;
+    max-width: 100%;
+    width: 500px;
+}
+
+.right .img img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+

@@ -1,4 +1,11 @@
 .skills-main{
-    border: 3px solid blue;
+    background-color: #217074;
     min-width: 100%;
+    min-height: 100vh;
+}
+
+.header-skills{
+    background-color: #e7eaef;
+    border-radius: 20px;
+    padding: 0.5rem;
 }

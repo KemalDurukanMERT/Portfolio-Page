@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Navbarx />
-      <div className="d-flex">
+      <div className="">
         <Home />
         <Skills />
       </div>

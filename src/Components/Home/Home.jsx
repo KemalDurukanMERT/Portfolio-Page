@@ -7,7 +7,7 @@ import { BsArrowRight } from "react-icons/bs";
 const Home = () => {
   return (
     <div className="main-container" id="main-container">
-      <div className="container">
+      <div className="container-home">
         <div className="right">
           <div className="img">
             <img src={profil} alt="" />
@@ -21,7 +21,7 @@ const Home = () => {
           <div className="title fs-2">
             Software Engineer And Full Stack Developer
           </div>
-          <div className="description my-5 fs-4">
+          <div className="description my-3 fs-4">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas
             fuga dignissimos dolorum eius vero, quas illum distinctio debitis
             eligendi similique corporis facere, consectetur itaque aliquam rem,
